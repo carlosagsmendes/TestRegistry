@@ -1,7 +1,0 @@
-{
-  "main": "browser/scrypt",
-  "format": "global",
-  "shim": {
-    "exports": "scrypt_module_factory"
-  }
-}

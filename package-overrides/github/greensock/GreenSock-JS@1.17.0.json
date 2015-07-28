@@ -1,6 +1,0 @@
-{
-  "main": "TweenMax.js",
-  "directories":{
-    "lib": "src/uncompressed"
-  }
-}

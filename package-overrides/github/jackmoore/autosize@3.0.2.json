@@ -1,5 +1,0 @@
-{
-  "main": "dest/autosize",
-  "format": "cjs",
-  "registry": "jspm"
-}
